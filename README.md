@@ -9,7 +9,7 @@ Using select to create menus had several problems for me.
 
 So i built my own menu and happy to share!
 
-[Download menu.sh](https://github.com/srvr-au/bashMenuSystem/blob/678cf219c0b527c94da7e95b554e98b51848fd5a/menu.sh) and add it to your projects.
+[Download menu.sh](https://raw.githubusercontent.com/srvr-au/bashMenuSystem/main/menu.sh) and add it to your projects.
 
 Donation: If you use bashMenuSystem a donation would be appreciated. Give according to your means.
 https://www.paypal.com/donate?hosted_button_id=P8USAAG7U2T28
