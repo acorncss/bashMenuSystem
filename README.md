@@ -1,4 +1,4 @@
-# Bash Menu
+# Freddo's Bash Menu
 
 Using select to create menus had several problems for me.
 + I wanted the menu to immediately react to first character input
@@ -7,11 +7,11 @@ Using select to create menus had several problems for me.
 + I wanted some colour
 + I wanted the quit and exit command to be consistently the same letter q and x
 
-So i built my own menu and happy to share!
+So I built my own menu and happy to share!
 
 [Download menu.sh](https://raw.githubusercontent.com/srvr-au/bashMenuSystem/main/menu.sh) and add it to your projects.
 
-Donation: If you use bashMenuSystem a donation would be appreciated. Give according to your means.
+Donation: If you use Bash Menu a donation would be appreciated. Give according to your means.
 https://www.paypal.com/donate?hosted_button_id=P8USAAG7U2T28
 
 Download the script and run it. Script contains functions and examples.
