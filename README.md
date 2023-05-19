@@ -12,6 +12,7 @@ So I built my own menu and happy to share!
 [Download menu.sh](https://raw.githubusercontent.com/srvr-au/bashMenuSystem/main/menu.sh) and add it to your projects.
 
 Donation: If you use Bash Menu a donation would be appreciated. Give according to your means.
-[Donate](https://www.paypal.com/donate?hosted_button_id=P8USAAG7U2T28)
+
+:dollar: [Donate](https://www.paypal.com/donate?hosted_button_id=P8USAAG7U2T28)
 
 Download the script and run it. Script contains functions and examples.
