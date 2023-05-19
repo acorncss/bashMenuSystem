@@ -5,7 +5,7 @@ Using select to create menus had several problems for me.
 + I wanted more than 1-9 characters, I wanted up to 26 characters (the alphabet)
 + I wanted to optionally confirm choices
 + I wanted some colour
-+ I wanted the quit and exit command to be consistently the same letter q and x
++ I wanted the quit and exit command to be consistently the same letters (q and x)
 
 So I built my own menu and happy to share!
 
