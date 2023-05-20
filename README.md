@@ -15,6 +15,6 @@ Use Discussions if you want to comment on my code.
 
 Donation: If you use Bash Menu a donation would be appreciated. Give according to your means.
 
-:dollar: [Donate](https://www.paypal.com/donate?hosted_button_id=P8USAAG7U2T28)
+[Donate](https://www.paypal.com/donate?hosted_button_id=P8USAAG7U2T28)
 
 Download the script and run it. Script contains functions and examples.
