@@ -11,7 +11,7 @@ So I built my own menu and happy to share!
 
 Use Discussions if you want to comment on my code.
 
-[Download menu.sh](https://raw.githubusercontent.com/srvr-au/bashMenuSystem/main/menu.sh) and add it to your projects.
+[Download menu.sh](https://raw.githubusercontent.com/srvr-au/Bash-Menu/main/menu.sh) and add it to your projects.
 
 Donation: If you use Bash Menu a donation would be appreciated. Give according to your means.
 
