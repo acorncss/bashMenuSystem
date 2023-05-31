@@ -32,8 +32,8 @@ BTKmenu(){
 clear
 echo -e "${btkPur} Bash Menu${btkRes}"
   echo -e "${btkCya} ${heading}${btkRes}"
-  chars=( {a..p} {r..w} {y..z} )
-  menuChars=()
+  local chars=( {a..p} {r..w} {y..z} )
+  local menuChars=()
   for i in "${!btkMenuOptions[@]}"; do
     echo -e "${btkRev} ["${chars[i]}"] - ${btkMenuOptions[$i]}${btkRes}"
     menuChars+=("${chars[i]}")
@@ -43,10 +43,10 @@ echo -e "${btkRev} [q] - Quit this Menu${btkRes}"
 echo -e "${btkRev} [x] - Exit this Script${btkRes}"
   echo -e "${btkCya} ${prompt}${btkRes}"
   echo -e "${btkPur} ${btkRes}"
-read -n1 -s menuAnswer
+read -n1 -s btkMenuAnswer
 local count=0
 for i in "${menuChars[@]}"; do
-    if [ "$i" == "${menuAnswer}" ] ; then
+    if [ "$i" == "${btkMenuAnswer}" ] ; then
       [[ "$i" == 'x' ]] && BTKexit
       [[ "$i" == 'q' ]] && return
       if [[ $doConfirm == 'y' ]]; then
